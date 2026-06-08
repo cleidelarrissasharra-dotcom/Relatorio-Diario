@@ -1,0 +1,6 @@
+{
+  "name": "Relatorio Diario de Vendas",
+  "description": "Sistema de gerenciamento de vendas e gerador de relatórios diários agrupados, simulando a stored procedure sp_relatorio_diario_compras para produtos FLV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
